@@ -11,7 +11,7 @@ document.getElementById("btn").addEventListener("click", function () {
         const hints = document.getElementById("hints");
         hints.innerHTML = `<div class="card-body">
         
-        <h1 class="card-text">Login sucessful.</h1>
+        <h1 class="card-text">Login successful.</h1>
         
     </div>`
         var elementOne = document.getElementById("left-door-open");
